@@ -1,0 +1,25 @@
+
+                                                   BUS RESERVATION  SYSTEM
+
+	
+
+
+	The  c project  that I have developed  is  for the Bus Reservation  which is one of the real time applications.
+ Initially I have made the code to  know the purpose of the customer(to enquire or to both enquire and book).Accordingly,
+ the code is executed. For enquiry, the  number of buses  that  the agency is running and   details like timings, available
+ seats ,cost of each ticket  etc are printed to the customer  according to their options. This gives a complete view to the
+ customer who enquires for it.
+ 	
+	
+
+	Next, the details from the user for reservation is done where the name, age, gender, date, month, year of their 
+travelling ,timing of the bus, Number of persons travelling ,type of bus (  seater or semi sleeper)  are taken which are 
+considered to be essential. Here the code prints for the valid timings available for them. Then it shows the cost of the 
+tickets according to the stoppings preferred by the customer(as payments may differ for different stoppings).Then  the code 
+asks to specify the no. of seats in the available routes according to which the cost is printed at last. Next, it allows  
+the customer to book the seat numbers(only to the available seats) according to their wish and here the seat list is shown to 
+them to have a overview.( regarding the booked seats where the booked seats are indicated by ‘0’). Finally the receipt 
+containing the name, age, gender(for each person),total cost of their  tickets and the booked seats are printed for the customer. 
+If the customer wishes ,the booking can be made once again with another set of data( another booking) or  he/she can exit the page.
+ Thus, the Bus Reservation System is done successfully.  
+  
