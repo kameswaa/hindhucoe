@@ -1,3 +1,1 @@
-# hindhucoe
-Bus Reservation system
-smart pothole detection system
+Detect Potholes on the road using Mobile Vehicle installed with Ultrasonic sensor.Classify the Potholes into Groups: 1) Red Color:- it indicates Danger Potholes. 2) Yellow Color:- it indicates Big Potholes. 3) Green Color:- it indicates Small Potholes. Plot the markers with different colors corresponding to potholes group. Send alert about potholes to the corporation.
